@@ -1,0 +1,38 @@
+<actions>
+  <action>
+	<testid>textMessage</testid>
+	<method>post</method>
+	<testurl> http://101.200.140.59/WebChatTools/MessageHub/tenant002?signature=ca6a0708843a5d935e639961920c4b351124626e&timestamp=1456987066&nonce=431133893&encrypt_type=aes&msg_signature=be48e5c3b1162945fbcfc8b5315541ff734e7487http://101.200.140.59/WebChatTools/MessageHub/tenant002?signature=ca6a0708843a5d935e639961920c4b351124626e&timestamp=1456987066&nonce=431133893&encrypt_type=aes&msg_signature=be48e5c3b1162945fbcfc8b5315541ff734e7487</testurl>
+	<payload>
+		<xml><ToUserName><![CDATA[gh_bcd80829a3ba]]></ToUserName><Encrypt><![CDATA[8b/CTVBkOH2xAXTM8RayhVjgVLweuP7mlq5KqXWg4k8x8OWhyOA54cmB0PIIXrgOBq7tyvaBNcmYhv/qffFFNUKUYrRzyojC2eh/CX7MhuAd6Br0F0yLz6CqYWukZyO3pEb2h4EdMnX6oyROcrCvLBgrdDw32uMbjEDMYAAVAyx1hLZY9gMY8J6APpvTShrDYcM3Q0FlLSOmoGv0732bY5BvQvtgG0xNsFUxgjqaP9PT+NXkHx3/z0JjnKk/YARtEpm8sg4ffYta0kX7gMeAM5SyJ6XQKEL6Pb9xHh61DT3y0GMKzCd8ctzRCexkCHzh12JzLvkbKZgHVRx2n+agwte9az0SMIfPk7R6S4xgguJ/8NWWRq+K5pT3UV4IITulLhmTNo6IklVnJcLwYJjyVGfuAXIn+K+IZQZXAjBsVpaMiDwGa8mlgVpnKrAFHTdzdEmiEqyhyxanS/QMixdk9A==]]></Encrypt></xml>
+	</payload>
+  </action>
+  <action>
+	<testid>PicMessage</testid>
+	<method>post</method>
+	<testurl> http://101.200.140.59/WebChatTools/MessageHub/tenant002?signature=d342d20caba200d1faf678c4344bc48d3567632d&timestamp=1456987152&nonce=536607234&encrypt_type=aes&msg_signature=dea6eb110775e3a798eac1e21d328b34fbf754d1
+	</testurl>
+	<payload>
+		<xml><ToUserName><![CDATA[gh_bcd80829a3ba]]></ToUserName><Encrypt><![CDATA[bWVhA5VFxJYljItZtjV79L82Zi2zMgBErwHOXU+UoIwlaStqq5BsUqEO45Czb06tW5WnFGokx8ANUkhn9CpgLQRmWOcgKt5vusZxrseuUay5Ouoczjq8w1fAO9S2ry9rSyEh+eB8KjDo2bdyZfAIn0jb9p296dbl6uJ0eTRHzCEUUA4Y/jJ+iESwuSYrW/gjTgt2j03vo/aPUDIauAuBv6v6Yq37/83pQ0TfRp8VnpNL0gXo1WY8ACjeKcFzSd892BDoNqhaMNBfJ2ZszTh/IUCHYz+aRiKMcdQ4EAVwpKCcdZq8emgLPaBAOMHmGqJ3PYflYRuNctZOZbAyBrbFCTBKHB655vX9OfTKRcjl8UOPDKSBFPaob6m37IBG5OwzSOSWDfqLf3vPJyXqS3VpxReUw+4GtDwG4mNDTOckOBoLs0D/rX65qlAO46Whcr3VrHG02hR1jKJ51pcX2gcCFwpB0cFMOm41Z7euqjk3QDYBE1kUctXRg0Y2TNhdj4M37gwHj6Cy+NDVj+bh5m0wgyWNcy+lgCXGqB7HYVDx/g9cjY17m0LoFO/bRDHOBZCQ9hitq7n9K9ay65i4aPJMX1jzWThn+WQxo6Igl2v8+m9OBcMi9b7f8A3xXnxE3lsZ87TjYVqzlcp13GJWHs6Gb9Zxqbchbwg2ag+3PvTfDo7phEo7ogKeH8G/ABp4fndthNsUYGSwOdZZjBCWGRNAcg==]]></Encrypt></xml>
+	</payload>
+  </action>
+  <action>
+	<testid>VidioMessage</testid>
+	<method>post</method>
+	<testurl>http://101.200.140.59/WebChatTools/MessageHub/tenant002?signature=0426eb6bc98c7685bc5e8e0656e8a4e54866ebe8&timestamp=1456987255&nonce=830302227&encrypt_type=aes&msg_signature=f934705a943507bad19c8283934a111845288fac
+	</testurl>
+	<payload>
+		<xml><ToUserName><![CDATA[gh_bcd80829a3ba]]></ToUserName><Encrypt><![CDATA[eCD0rTDVUuaUN+pamAlBzVnpS008ImHuAo0NR0YzDPO9S0RZH4JYoNOHPJMC0ij4wo/PdTrf4nhIIizVBU3UWKsOehr0Cz87hOXwYjLC0Q6X9F9k847h7K1IS3HaVGBKYaj3JP+Gciu5QQPE50bXW+RQN+MJb9B2/jbseUTNZL1Zv0Cjh5wDt64xEDT8hAiSb7oHSwb6ZMrRzfeWg7dDG3+hYpHN1ujUsyzVcBjomGfwt0Sq/+xKHBZXI5Jn3+aTBGt9nwiFk8mSaMo4/UvfFDiwtRa+J1PIvkY+WKhXnGiukJwhNXEARPF0AnyQ9qk/UTYqCxjaOr6/bcaD+rh11TfeOBwH4Uc+m3O07lwzXXhpBBCWAjS+gZMPIz4+oiqlQzeXGOJWGYUHpYtf3n29uvN0SxDenc+xeSZNrVnv1PENFriQ51/sNbYZo52Jzx/nC8Q55xZCiXBTnysFJy8MztcQUHbZ39CdLwStYji6rvAyPUIddbuAjg1O2y0sHVXyIfWdaAR2doVT/YMo4ArS+x8Sm1BEz/eDO4+nYbIt2qZZjuN9XPSG35rx13aZqQC7OwcUjMnJ3/LfoJJzalfOvBrEkjwVRHg8P/SO+Q2C2kY13sD1j6iaz/WS9X/1FZeMtU009uGkZB0PUKHau4GtdyoRugYRebV2o3vqTq/9yY0=]]></Encrypt></xml> 
+	</payload>
+  </action>
+  <action>
+	<testid>locationMessage</testid>
+	<method>post</method>
+	<testurl>
+		http://101.200.140.59/WebChatTools/MessageHub/tenant002?signature=1898ce591e8812a5efe02e8397756e3722272fc4&timestamp=1456987327&nonce=1209583317&encrypt_type=aes&msg_signature=34e431dafa6d79a29e1aef4083108939e0441e84
+	</testurl>
+	<payload>
+		<xml><ToUserName><![CDATA[gh_bcd80829a3ba]]></ToUserName><Encrypt><![CDATA[NXaVRLZ6A+ufwI1uIyDxC8L8RaYXUHp2VcIvWJx2Uzbm13S+Tj8yQGnBl4kFRlWIIryO4lsgT8BIeBZ+R7i/GTGWXzUtticLyYXO0YV9kSe9ntDB34BZWxQV4WoLkSEEDuQ1AsG51GejsL103K8+ZeVxmGZa04wx2vyPSsZGOmyarTOhfcyqjVweI3kGkXRxjw8lSoyFDJPweOQ/6jALsQRskJ4MOTEloyP+1oTNfIQ4GCJiJUk6XrqPt5NLnzL4oSvFHcb2qNPq005qxhFWkYmQbqxo5wgUvGuB0PRMM6qtNwpWbyO426DX9xWoV9k0i+BqLFoRL7wePCnAvNjMGqQBvdPy6r7MMd0vr3cBCAqvuDGEjO3DTxPrgS7XClE4yyyCEF19ri5YZHH8Hw82MCx2cyBgYF+UwgO1N3NW7uh7k0+hkU2FWKxPCI75HRkrus0IO0JjhdFTuRk7cHlQ2JeITC9Ewq+muadU6KVLOLqG757ojOXwSmeO+iBH9Zqang0EnIw7FSvYN2/W3KWnG3HjelBhUhthESSE/165jjGnRbjHWcdpKxrjtXStrlk8MGyuirLZVv1kPCoiYqZk9fIWG3YVgrelqSD+Ks05CFbHwHqixaEzHRjy1/XmDnUE]]></Encrypt></xml>
+ 	</payload>
+  </action>
+<actions>
